@@ -3,6 +3,9 @@
 body {
   --clr-main: #16113b;
 }
+.u-white.py-4:not(.section) .row:not(.testimonails-listing)::before {
+  display: none;
+}
 /*                                                                  landing section */
 /* title */
 .store-home .section.section-products:first-of-type .section--title {
@@ -159,9 +162,7 @@ body {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
 }
-/* .u-white.py-4:not(.section) .row:not(.testimonails-listing)::before {
-  display: none;
-} */
+
 body {
   --clr-pink: #fdf3f4;
 }
