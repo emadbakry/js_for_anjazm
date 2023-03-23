@@ -58,7 +58,7 @@ body {
   .product-title::before {
   content: "نقدم لك خدمة:";
   display: block;
-  margin: 1rem auto;
+  margin: 0 auto 1rem auto;
   text-align: center;
   font-size: 1.6rem;
 }
