@@ -223,13 +223,13 @@ body {
   visibility: hidden;
 }
 .feature-item:nth-of-type(1) .feature-item__icon i {
-  background-image: url(https://res.cloudinary.com/dtt8dhoyw/image/upload/v1679468440/clients_sites/makeupnada/IMG_7832_naga7s.png);
+  background-image: url(https://res.cloudinary.com/dtt8dhoyw/image/upload/v1679571740/clients_sites/anjazm/medal-dynamic-gradient_vkoht0.png);
 }
 .feature-item:nth-of-type(2) .feature-item__icon i {
-  background-image: url(https://res.cloudinary.com/dtt8dhoyw/image/upload/v1679468440/clients_sites/makeupnada/IMG_7833_s75eyp.png);
+  background-image: url(https://res.cloudinary.com/dtt8dhoyw/image/upload/v1679571452/clients_sites/anjazm/chat-text-dynamic-color_d9re9p.png);
 }
 .feature-item:nth-of-type(3) .feature-item__icon i {
-  background-image: url(https://res.cloudinary.com/dtt8dhoyw/image/upload/v1679468440/clients_sites/makeupnada/IMG_7834_zwotpo.png);
+  background-image: url(https://res.cloudinary.com/dtt8dhoyw/image/upload/v1679571401/clients_sites/anjazm/rocket-dynamic-color_xueotc.png);
 }
 @media only screen and (min-width: 992px) {
   .u-white.py-4:not(.section) .row:not(.testimonails-listing) {
